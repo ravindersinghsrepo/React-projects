@@ -1,0 +1,22 @@
+.app-container{
+    border: 1px solid black;
+    height: 100vh;
+    background-color: rgb(6, 6, 33);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    border:1px solid red;
+
+}
+
+li{
+    list-style-type: none;
+    border: 1px solid white;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+

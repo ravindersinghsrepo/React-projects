@@ -1,0 +1,22 @@
+
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(18, 18, 65);
+}
+button{
+  background-color: bisque;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin:10px ; 
+  border-radius: 20px;
+  outline: none;
+}
+span{
+    color: white;
+}
+.number{
+    color: white;
+}
