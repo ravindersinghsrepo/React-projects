@@ -1,0 +1,21 @@
+.app-container {
+  color: #fff;
+  background-color: #060621;
+  border: 1px solid #000;
+  justify-content: center;
+  height: 100vh;
+  display: flex;
+}
+
+ul {
+  border: 1px solid red;
+}
+
+li {
+  border: 1px solid #fff;
+  justify-content: space-between;
+  width: 200px;
+  list-style-type: none;
+  display: flex;
+}
+/*# sourceMappingURL=index.e6e8b761.css.map */
